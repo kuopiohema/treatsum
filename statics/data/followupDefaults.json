@@ -1,0 +1,38 @@
+{
+  "general": {
+    "growth": {
+      "label": "Kasvu",
+      "text": "Kasvun seuranta kontrollikäyntien yhteydessä."
+    },
+    "rr": {
+      "label": "Verenpaine",
+      "text": "Verenpaineen mittaus jokaisen lääkärikäynnin yhteydessä."
+    },
+    "heartM": {
+      "label": "Sydän (poika)",
+      "text": "Sydämen ultraäänitutkimus vuoden kuluttua hoidonlopetuksesta ja sen jälkeen X vuoden välein, lisäksi aikuisiän kynnyksellä sekä ennen kilpaurheilun aloittamista."
+    },
+    "heartF": {
+      "label": "Sydän (tyttö)",
+      "text": "Sydämen ultraäänitutkimus vuoden kuluttua hoidonlopetuksesta ja sen jälkeen X vuoden välein, lisäksi aikuisiän kynnyksellä, raskautta suunnitellessa tai viimeistään 1. raskauskolmanneksen aikana sekä ennen kilpaurheilun aloittamista."
+    },
+    "kidneys": {
+      "label": "Munuaiset",
+      "text": "Munuaisten toimintakokeet vuosittain."
+    },
+    "lifestyle": {
+      "label": "Elämäntavat",
+      "text": "Tupakointi vältettävä. Suositellaan muutoinkin noudattamaan terveellisiä elämäntapoja."
+    }
+  },
+  "vaccination": {
+    "nonHR": {
+      "label": "Non-HR",
+      "text": "Rokotukset voidaan jatkaa kansallisen rokotusohjelman mukaan aikaisintaan kolmen kuukauden kuluttua hoidonlopetuksesta. Poikkeuksena eläviä heikennettyjä taudinaiheuttajia sisältävät rokotteet, joista vesirokkorokote voidaan antaa aikaisintaan kuuden kuukauden ja muut (MPR, influenssa-nenäsumuterokote) aikaisintaan vuoden kuluttua hoidonlopetuksesta."
+    },
+    "HR": {
+      "label": "HR",
+      "text": "Rokotukset voidaan jatkaa kansallisen rokotusohjelman mukaan aikaisintaan kuuden kuukauden kuluttua hoidonlopetuksesta. Poikkeuksena eläviä heikennettyjä taudinaiheuttajia sisältävät rokotteet (vesirokko, MPR, influenssa-nenäsumuterokote), joita voidaan antaa aikaisintaan vuoden kuluttua hoidonlopetuksesta."
+    }
+  }
+}
